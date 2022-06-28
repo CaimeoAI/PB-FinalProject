@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "figchalk": "^1.0.3",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.4",
+    "prompt-confirm": "^2.0.4",
+    "prompt-sync": "^4.2.0"
+  }
+}
